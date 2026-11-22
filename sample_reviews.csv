@@ -1,0 +1,9 @@
+id,avis,categorie_attendue
+1,"Ce produit est exceptionnel, la qualité de fabrication est irréprochable et le support client a été d'une grande aide !",positif
+2,"Très déçu par cet achat. L'article est arrivé cassé et le service après-vente refuse de me rembourser.",négatif
+3,"Le design est vraiment élégant et moderne, mais la batterie ne tient pas plus de deux heures.",ambigu
+4,"Franchement, ce n'est pas un mauvais produit pour le prix, il fait le travail demandé sans prétention.",positif
+5,"Un véritable chef-d'œuvre de lenteur et d'inutilité, félicitations aux développeurs pour cette prouesse !",ironie
+6,"Livraison ultra rapide et emballage soigné. Conforme en tous points à la description.",positif
+7,"Ne fonctionne absolument pas, notice incompréhensible, fuyez à tout prix.",négatif
+8,"Les performances sont correctes mais l'écran a tendance à chauffer au bout de 30 minutes.",ambigu
